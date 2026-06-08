@@ -1,1226 +1,751 @@
-# OSSU Psychology
+Ниже — оформленный `.md`-документ в стиле OSSU, но под Psychology Self-Study Track.
+Структура рассчитана на 12–18 месяцев при параллельной работе/учёбе.
 
-> Open Source Self-Taught Psychology Curriculum
+# OSSU Psychology Self-Study (RU Edition)
 
-Самостоятельная программа изучения психологии уровня strong undergraduate foundation.
+> Самостоятельный путь изучения психологии на уровне strong undergraduate / pre-master.
+> Основа: научная психология, research-oriented подход, критическое мышление.
+> Формат вдохновлён OSSU CS.
 
 ---
 
-# Цели программы
+# 📚 Цель программы
 
 После прохождения программы ты должен:
 
-* понимать базовые направления психологии;
-* уметь читать и критически оценивать исследования;
-* понимать когнитивные искажения, мотивацию, поведение и социальные механики;
-* разбираться в памяти, обучении, эмоциях и принятии решений;
-* иметь научную базу, а не «психологию из соцсетей».
+* понимать научный метод в психологии;
+* читать research papers;
+* знать базовые направления психологии;
+* понимать статистику и research design;
+* иметь базу для:
+
+  * Master's Degree,
+  * HR/People Analytics,
+  * UX Research,
+  * Product Psychology,
+  * Behavioral Economics,
+  * CBT/Coaching foundations,
+  * научной деятельности.
 
 ---
 
-# Кому подходит
+# ⏳ Общая нагрузка
 
-* разработчикам;
-* менеджерам;
-* предпринимателям;
-* аналитикам;
-* людям, интересующимся поведением человека;
-* тем, кто хочет лучше понимать себя и других.
-
----
-
-# Важное ограничение
-
-Это НЕ путь к лицензированной клинической практике.
-
-Программа даёт:
-
-* фундамент;
-* академическую базу;
-* понимание исследований;
-* applied psychology.
-
-Но не заменяет:
-
-* университет;
-* супервизию;
-* лицензирование;
-* клиническую подготовку.
+| Формат    | Время           |
+| --------- | --------------- |
+| Lite      | 6-8 часов/нед   |
+| Normal    | 10-14 часов/нед |
+| Intensive | 20+ часов/нед   |
 
 ---
 
-# Общая структура
+# 🧭 Общая структура
 
-| Этап | Тема                                   | Время    |
-| ---- | -------------------------------------- | -------- |
-| 0    | Learning Foundations                   | 1 неделя |
-| 1    | Introduction to Psychology             | 2 недели |
-| 2    | Research Methods & Statistics          | 6 недель |
-| 3    | Cognitive Psychology                   | 8 недель |
-| 4    | Developmental Psychology               | 4 недели |
-| 5    | Personality Psychology                 | 3 недели |
-| 6    | Social Psychology                      | 5 недель |
-| 7    | Motivation, Emotion, Health            | 4 недели |
-| 8    | Abnormal Psychology                    | 6 недель |
-| 9    | Behavioral Economics & Decision Making | 4 недели |
-| 10   | Neuroscience Basics                    | 6 недель |
-| 11   | Applied Psychology                     | 4 недели |
-| 12   | Final Project                          | 2 недели |
-
-Общая длительность:
-
-* 6–12 месяцев
-* 8–12 часов в неделю
+1. Foundations
+2. Statistics & Research
+3. Brain & Cognition
+4. Human Development
+5. Social & Personality
+6. Clinical & Abnormal
+7. Behavioral Economics
+8. Psychotherapy Foundations
+9. Academic Writing & Research
+10. Applied Tracks
+11. Capstone
 
 ---
 
-# Stage 0 — Learning Foundations
+# PHASE 0 — Foundations
 
-## Цель
+## ⏱ Время
 
-Научиться учиться как исследователь, а не как потребитель контента.
-
-## Что изучить
-
-* active recall
-* spaced repetition
-* note-taking
-* scientific thinking
-* cognitive biases
-
-## Ресурсы
-
-### Learning How to Learn
-
-https://www.coursera.org/learn/learning-how-to-learn
-
-### Make It Stick
-
-Book:
-
-* Peter Brown — Make It Stick
+2-3 недели
 
 ---
 
-# Stage 1 — Introduction to Psychology
+## Что изучаем
 
-## Цель
-
-Получить обзор всей психологии.
-
-## Topics
-
-* history of psychology
-* behavior
-* mind
-* scientific method
-* schools of psychology
-
-## Main Course
-
-### Yale Open Courses — Introduction to Psychology
-
-https://oyc.yale.edu/introduction-psychology/psyc-110
-
-## Main Textbook
-
-### OpenStax Psychology 2e
-
-https://openstax.org/details/books/psychology-2e
-
-## Outcome
-
-После этапа:
-
-* понимаешь основные направления;
-* понимаешь difference between pop psychology and science.
+* что такое scientific psychology;
+* как работает evidence-based подход;
+* cognitive biases;
+* корреляция vs causation;
+* replication crisis.
 
 ---
 
-# Stage 2 — Research Methods & Statistics
+## Курсы
 
-## Самый важный этап
+### 1. Introduction to Psychology — Yale
 
-Большинство людей знают "факты".
-Мало кто умеет:
+🔗 [https://oyc.yale.edu/psychology/psyc-110](https://oyc.yale.edu/psychology/psyc-110)
 
-* читать исследования;
-* оценивать качество данных;
-* отличать causation от correlation.
+⏱ 25–30 часов
 
-## Topics
+Что даст:
 
-* experimental design
-* sampling
-* validity
-* reliability
-* correlation
-* hypothesis testing
-* p-value
-* effect size
-* survey bias
-
-## Resources
-
-### OpenStax — Chapter 2
-
-https://openstax.org/books/psychology-2e/pages/2-introduction
-
-### MIT Statistics for Brain and Cognitive Science
-
-https://ocw.mit.edu/courses/9-07-statistics-for-brain-and-cognitive-science-fall-2016/
-
-## Practice
-
-Разбирать 1 исследование в неделю.
-
-## Outcome
-
-Ты способен:
-
-* критически оценивать статьи;
-* понимать ограничения исследований;
-* не верить слепо громким выводам.
+* базовый обзор всей психологии;
+* понимание направлений;
+* хороший академический фундамент.
 
 ---
 
-# Stage 3 — Cognitive Psychology
+### 2. Crash Course Psychology
 
-## Topics
+🔗 [https://www.youtube.com/playlist?list=PL8dPuuaLjXtOPRKzVLY0jJY-uHOH9KVU6](https://www.youtube.com/playlist?list=PL8dPuuaLjXtOPRKzVLY0jJY-uHOH9KVU6)
 
-* attention
-* memory
-* learning
-* perception
-* intelligence
-* language
-* problem solving
-* cognitive biases
+⏱ 10–12 часов
 
-## Resources
+Что даст:
 
-### OpenStax Chapters 3–8
+* быстрое закрепление терминов;
+* визуальное понимание тем;
+* повторение после Yale.
 
-https://openstax.org/details/books/psychology-2e
+---
 
-## Books
+## Итог фазы
 
-### Thinking, Fast and Slow
+Ты должен понимать:
+
+* что психология — это наука;
+* как строятся исследования;
+* почему intuition часто ошибается.
+
+---
+
+# PHASE 1 — Statistics & Research Methods
+
+## ⏱ Время
+
+1.5–2 месяца
+
+---
+
+# Почему это критично
+
+Без статистики психология превращается в TikTok-мотивацию.
+
+Research methods = фундамент всей современной психологии.
+
+---
+
+## 1. Intro Statistics — Khan Academy
+
+🔗 [https://www.khanacademy.org/math/statistics-probability](https://www.khanacademy.org/math/statistics-probability)
+
+⏱ 40–60 часов
+
+Изучить:
+
+* mean/median/std;
+* distributions;
+* probability;
+* hypothesis testing;
+* confidence intervals;
+* regression;
+* correlation.
+
+---
+
+## 2. Research Methods in Psychology
+
+### OpenStax
+
+🔗 [https://openstax.org/details/books/psychology-2e](https://openstax.org/details/books/psychology-2e)
+
+Читать главы:
+
+* Scientific Method
+* Research Methods
+* Statistics
+
+⏱ 15–20 часов
+
+---
+
+## 3. Coursera — Improving Your Statistical Inferences
+
+🔗 [https://www.coursera.org/learn/statistical-inferences](https://www.coursera.org/learn/statistical-inferences)
+
+⏱ 15–20 часов
+
+---
+
+# Практика
+
+Сделать mini research:
+
+Примеры:
+
+* влияние сна на концентрацию;
+* зависимость настроения от соцсетей;
+* корреляция спорта и стресса.
+
+Использовать:
+
+* Google Forms
+* Excel / Google Sheets
+
+---
+
+# Что должен уметь после фазы
+
+* читать графики;
+* понимать p-value;
+* понимать выборки;
+* отличать плохие исследования;
+* не верить инфоцыганам.
+
+---
+
+# PHASE 2 — Neuroscience & Cognitive Psychology
+
+## ⏱ Время
+
+2 месяца
+
+---
+
+# 1. Medical Neuroscience — Duke
+
+🔗 [https://www.coursera.org/learn/medical-neuroscience](https://www.coursera.org/learn/medical-neuroscience)
+
+⏱ 60–80 часов
+
+Что изучать:
+
+* нейроны;
+* память;
+* внимание;
+* perception;
+* brain systems.
+
+---
+
+# 2. MIT — Introduction to Psychology
+
+🔗 [https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/](https://ocw.mit.edu/courses/9-00sc-introduction-to-psychology-fall-2011/)
+
+⏱ 35–45 часов
+
+Особенно:
+
+* cognition;
+* memory;
+* learning;
+* language.
+
+---
+
+# 3. Book — Thinking, Fast and Slow
+
+## Автор
 
 Daniel Kahneman
 
-### Algorithms to Live By
+🔗 [https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow](https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow)
 
-Brian Christian, Tom Griffiths
+⏱ 15–20 часов
 
-## Outcome
+Что даст:
 
-Ты понимаешь:
-
-* как люди принимают решения;
-* почему память ненадёжна;
-* почему мозг shortcut machine.
+* cognitive biases;
+* system 1 / system 2;
+* behavioral economics foundations.
 
 ---
 
-# Stage 4 — Developmental Psychology
+# Практика
 
-## Topics
+Вести Cognitive Bias Journal:
 
-* child development
-* adolescence
-* adulthood
-* aging
-* attachment
-* developmental stages
+Каждый день фиксировать:
 
-## Resources
-
-### OpenStax Chapter 9
-
-https://openstax.org/details/books/psychology-2e
-
-## Outcome
-
-Понимаешь:
-
-* как формируется личность;
-* как возраст влияет на cognition and behavior.
+* confirmation bias;
+* halo effect;
+* emotional reasoning;
+* anchoring.
 
 ---
 
-# Stage 5 — Personality Psychology
+# PHASE 3 — Developmental Psychology
 
-## Topics
+## ⏱ Время
 
-* Big Five
-* Freud
-* Jung
-* trait theory
-* humanistic psychology
-* personality assessment
-
-## Books
-
-### Personality Psychology
-
-Open educational resources
-
-### The Road Less Traveled
-
-M. Scott Peck
-
-## Outcome
-
-Понимаешь:
-
-* различия между людьми;
-* limits personality models.
+3–4 недели
 
 ---
 
-# Stage 6 — Social Psychology
+# Ресурсы
 
-## Topics
+## Developmental Psychology — OpenStax
 
-* conformity
-* obedience
-* persuasion
-* group dynamics
-* stereotypes
-* attribution errors
-* social identity
+🔗 [https://openstax.org/details/books/psychology-2e](https://openstax.org/details/books/psychology-2e)
 
-## Books
+Разделы:
 
-### Influence
-
-Robert Cialdini
-
-### The Righteous Mind
-
-Jonathan Haidt
-
-## Classic Experiments
-
-* Milgram
-* Stanford Prison Experiment
-* Asch Conformity
-
-## Outcome
-
-Понимаешь:
-
-* как группа меняет человека;
-* как работает persuasion.
+* lifespan development;
+* attachment;
+* adolescence;
+* aging.
 
 ---
 
-# Stage 7 — Motivation, Emotion & Health
+## Stanford Lectures
 
-## Topics
-
-* stress
-* burnout
-* emotions
-* motivation
-* habits
-* health psychology
-
-## Books
-
-### Atomic Habits
-
-James Clear
-
-### Why Zebras Don't Get Ulcers
-
-Robert Sapolsky
-
-## Outcome
-
-Понимаешь:
-
-* почему мотивация нестабильна;
-* как стресс влияет на cognition.
+🔗 [https://www.youtube.com/results?search_query=stanford+developmental+psychology](https://www.youtube.com/results?search_query=stanford+developmental+psychology)
 
 ---
 
-# Stage 8 — Abnormal Psychology
+# Что важно понять
 
-## Topics
-
-* anxiety disorders
-* depression
-* bipolar disorder
-* schizophrenia
-* personality disorders
-* trauma
-* therapy approaches
-
-## Resources
-
-### OpenStax Chapters 15–16
-
-https://openstax.org/details/books/psychology-2e
-
-## Important
-
-Изучать аккуратно.
-Не заниматься self-diagnosis.
-
-## Outcome
-
-Понимаешь:
-
-* основные категории расстройств;
-* как работает современная психотерапия.
+* attachment theory;
+* childhood development;
+* identity formation;
+* trauma impact;
+* aging psychology.
 
 ---
 
-# Stage 9 — Behavioral Economics & Decision Making
+# PHASE 4 — Social Psychology & Personality
 
-## Topics
+## ⏱ Время
 
-* heuristics
-* biases
-* prospect theory
-* irrational behavior
-* incentives
+1–1.5 месяца
 
-## Books
+---
 
-### Predictably Irrational
+# 1. Social Psychology — Yale
+
+🔗 [https://oyc.yale.edu/psychology/psyc-240](https://oyc.yale.edu/psychology/psyc-240)
+
+⏱ 30–40 часов
+
+Изучить:
+
+* conformity;
+* obedience;
+* attraction;
+* aggression;
+* group dynamics.
+
+---
+
+# 2. Personality Psychology
+
+## Book
+
+Personality Psychology — Open Textbook
+
+🔗 [https://open.umn.edu/opentextbooks/textbooks/813](https://open.umn.edu/opentextbooks/textbooks/813)
+
+---
+
+# Практика
+
+Разобрать:
+
+* Big Five;
+* MBTI (и почему он научно слаб);
+* narcissism;
+* dark triad.
+
+---
+
+# Что должен понимать
+
+* как общество влияет на мышление;
+* как формируется self-concept;
+* почему люди ведут себя иррационально в группах.
+
+---
+
+# PHASE 5 — Abnormal Psychology
+
+## ⏱ Время
+
+1–2 месяца
+
+---
+
+# Важно
+
+Это НЕ подготовка к диагностике людей.
+
+Это понимание:
+
+* DSM;
+* mental disorders;
+* clinical models.
+
+---
+
+# Ресурсы
+
+## Abnormal Psychology — OpenStax
+
+🔗 [https://openstax.org/details/books/psychology-2e](https://openstax.org/details/books/psychology-2e)
+
+Разделы:
+
+* anxiety disorders;
+* depression;
+* bipolar;
+* schizophrenia;
+* personality disorders.
+
+---
+
+## DSM Overview
+
+🔗 [https://www.psychiatry.org/psychiatrists/practice/dsm](https://www.psychiatry.org/psychiatrists/practice/dsm)
+
+---
+
+# Что важно понять
+
+* difference between sadness and depression;
+* trauma;
+* anxiety mechanisms;
+* personality disorders basics.
+
+---
+
+# PHASE 6 — Behavioral Economics
+
+## ⏱ Время
+
+3–4 недели
+
+---
+
+# 1. Behavioral Economics — Coursera
+
+🔗 [https://www.coursera.org/learn/behavioral-economics](https://www.coursera.org/learn/behavioral-economics)
+
+---
+
+# 2. Predictably Irrational
+
+## Автор
 
 Dan Ariely
 
-### Nudge
+🔗 [https://www.goodreads.com/book/show/1713426.Predictably_Irrational](https://www.goodreads.com/book/show/1713426.Predictably_Irrational)
 
-Thaler & Sunstein
-
-## Outcome
-
-Понимаешь:
-
-* почему люди принимают плохие решения;
-* как environment shapes decisions.
-
----
-
-# Stage 10 — Neuroscience Basics
-
-## Topics
-
-* neurons
-* neurotransmitters
-* brain regions
-* neuroplasticity
-* reward system
-* sleep
-
-## Courses
-
-### MIT Brain and Cognitive Sciences
-
-https://ocw.mit.edu/
-
-## Books
-
-### Behave
-
-Robert Sapolsky
-
-## Outcome
-
-Есть фундаментальное понимание:
-
-* как мозг влияет на behavior;
-* limits biological explanations.
-
----
-
-# Stage 11 — Applied Psychology
-
-## Tracks
-
-Выбери одно направление:
-
-* organizational psychology
-* UX psychology
-* behavioral analytics
-* educational psychology
-* negotiation psychology
-* leadership psychology
-
-## Recommended
-
-### Never Split The Difference
-
-Chris Voss
-
-### Thinking in Systems
-
-Donella Meadows
-
----
-
-# Stage 12 — Final Project
-
-## Сделать один проект
-
-Варианты:
-
-* research review;
-* essay;
-* experiment analysis;
-* behavior observation journal;
-* habit-tracking study;
-* social influence analysis.
-
-## Цель
-
-Научиться применять знания.
-
----
-
-# Recommended Reading Order
-
-## Foundation
-
-1. Thinking, Fast and Slow
-2. Influence
-3. Atomic Habits
-
-## Intermediate
-
-4. The Righteous Mind
-5. Predictably Irrational
-6. Nudge
-
-## Advanced
-
-7. Behave
-8. Why Zebras Don't Get Ulcers
-9. Algorithms to Live By
-
----
-
-# How to Study
-
-## Weekly Structure
-
-| Activity        | Time |
-| --------------- | ---- |
-| Lectures        | 2h   |
-| Reading         | 3h   |
-| Notes           | 1h   |
-| Reflection      | 1h   |
-| Research Review | 1h   |
-
----
-
-# Rules
-
-* Не учить только по shorts/reels/TikTok.
-* Не верить "психологическим фактам" без исследований.
-* Не путать self-help и psychology.
-* Делать заметки.
-* Обязательно изучать statistics and methodology.
-
----
-
-# Minimal Completion Criteria
-
-Чтобы считать curriculum завершённым:
-
-* пройти минимум 1 полноценный intro course;
-* прочитать минимум 5 книг;
-* разобрать минимум 20 исследований;
-* сделать final project;
-* вести notes system.
-
----
-
-# Optional Advanced Tracks
-
-## If you are developer
-
-Дополнительно изучить:
-
-* behavioral economics;
-* human-computer interaction;
-* cognitive science;
-* decision theory;
-* AI alignment psychology.
-
-## Useful Books
-
-* The Design of Everyday Things
-* Hooked
-* Superforecasting
-* Thinking in Bets
-
----
-
-# Final Result
-
-После программы ты:
-
-* понимаешь человеческое поведение намного глубже среднего;
-* умеешь критически мыслить;
-* лучше понимаешь мотивацию и решения;
-* умеешь читать исследования;
-* не ведёшься на псевдонауку.
-  * behavioral economics/product psychology
-  * human-centered software/product work
-
----
-
-# 2. Study Rules
-
-## Weekly Load
-
-Recommended:
-
-| Intensity | Hours/Week |
-| --------- | ---------- |
-| Light     | 6–8h       |
-| Standard  | 10–12h     |
-| Intensive | 15–20h     |
-
-Standard pace is enough for 12 months.
-
----
-
-## Learning Ratio
-
-Use:
-
-* 40% lectures/videos
-* 30% textbooks/readings
-* 20% active recall & notes
-* 10% projects/reflection
-
----
-
-## Core Principles
-
-* never consume passively
-* summarize every chapter
-* create flashcards
-* explain concepts in your own words
-* read scientific papers early
-* learn statistics alongside psychology
-
----
-
-# 3. Core Skills
-
-You are building 5 parallel competencies:
-
-| Skill               | Why It Matters          |
-| ------------------- | ----------------------- |
-| Scientific Thinking | Avoid pseudo-psychology |
-| Statistics          | Read research correctly |
-| Academic Writing    | Communicate formally    |
-| Research Literacy   | Understand papers       |
-| Critical Thinking   | Detect weak claims      |
-
----
-
-# 4. Year 1 Roadmap
-
-# Phase 1 — Foundations (Months 1–2)
-
-Focus:
-
-* intro psychology
-* biology basics
-* scientific thinking
-* note-taking system
-
-## Courses
-
-### Introduction to Psychology — Yale
-
-https://oyc.yale.edu/psychology/psyc-110
-
-Professor Paul Bloom.
-
-One of the best free introductions available.
-
----
-
-### CrashCourse Psychology
-
-https://www.youtube.com/playlist?list=PL8dPuuaLjXtOPRKzVLY0jJY-uHOH9KVU6
-
-Good for reinforcement and quick revision.
-
----
-
-### OpenStax Psychology 2e
-
-https://openstax.org/details/books/psychology-2e
-
-Primary foundational textbook.
-
----
-
-## Goals
-
-By end of Phase 1:
-
-* know major schools of psychology
-* understand basic neuroscience vocabulary
-* know experimental method basics
-* distinguish correlation vs causation
-
 ---
 
-# Phase 2 — Research & Statistics (Months 3–4)
+# Что изучить
 
-This phase is critical.
+* irrational decisions;
+* loss aversion;
+* framing;
+* nudges;
+* decision fatigue.
 
-Most self-learners skip statistics.
-Do not skip statistics.
-
----
-
-## Statistics
-
-### Khan Academy Statistics
-
-https://www.khanacademy.org/math/statistics-probability
-
----
-
-### Intro to Statistics — Stanford
-
-https://online.stanford.edu/courses/sohs-ystatslearning-statistics
-
----
-
-### Think Stats (Free Book)
-
-https://greenteapress.com/wp/think-stats-2e/
-
----
-
-## Research Methods
-
-### Research Methods in Psychology — Open Textbook
-
-https://nobaproject.com/modules/research-methods-in-psychology
-
----
-
-### APS Research Methods Resource
-
-https://www.psychologicalscience.org/observer/becoming-a-psychologically-literate-citizen
-
----
-
-## Learn
-
-* hypothesis testing
-* p-values
-* experimental design
-* sampling
-* biases
-* reliability/validity
-* replication crisis
-* effect size
-
----
-
-## Practical Tasks
-
-* replicate simple studies
-* analyze datasets in Excel/Python
-* summarize papers
-
----
-
-# Phase 3 — Brain & Cognition (Months 5–6)
-
-## Neuroscience
-
-### Medical Neuroscience — Duke University
-
-https://www.coursera.org/learn/medical-neuroscience
-
-Audit for free.
-
----
-
-### MIT Introduction to Neuroscience
-
-https://ocw.mit.edu/courses/9-01-introduction-to-neuroscience-fall-2007/
-
----
-
-## Cognitive Psychology
-
-### Cognitive Psychology and Cognitive Neuroscience
-
-https://www.coursera.org/learn/cognitive-psychology
-
----
-
-### Noba Cognitive Psychology
-
-https://nobaproject.com/modules/cognitive-psychology
-
----
-
-## Topics
-
-* attention
-* memory
-* learning
-* language
-* decision-making
-* consciousness
-* perception
-* emotion
-
----
-
-## Projects
-
-* memory experiment
-* spaced repetition experiment
-* attention tracking journal
-
----
-
-# Phase 4 — Human Development & Personality (Months 7–8)
-
-## Developmental Psychology
-
-### Developmental Psychology Course
-
-https://nobaproject.com/modules/developmental-psychology
-
----
-
-### Berkeley Developmental Psychology Lectures
-
-https://www.youtube.com/results?search_query=berkeley+developmental+psychology
-
 ---
 
-## Personality Psychology
+# Практика
 
-### Personality Theory & Assessment
+Разбирать:
 
-https://nobaproject.com/modules/personality-traits
+* маркетинг;
+* UX patterns;
+* pricing;
+* social media addiction mechanics.
 
 ---
-
-### Personality Psychology Textbook
-
-https://open.umn.edu/opentextbooks/textbooks/813
 
----
+# PHASE 7 — Psychotherapy Foundations
 
-## Learn
+## ⏱ Время
 
-* Big Five
-* temperament
-* attachment
-* developmental stages
-* identity formation
-* intelligence theories
+1 месяц
 
 ---
-
-# Phase 5 — Social & Behavioral Psychology (Months 9–10)
 
-## Social Psychology
+# Важно
 
-### Social Psychology — Wesleyan
+НЕ заменяет образование психотерапевта.
 
-https://www.coursera.org/learn/social-psychology
+Это только foundation-level understanding.
 
 ---
 
-### Social Psychology Textbook
+# Изучить направления
 
-https://opentextbc.ca/socialpsychology/
+| Направление   | Суть                          |
+| ------------- | ----------------------------- |
+| CBT           | работа с мыслями и поведением |
+| Psychodynamic | бессознательное               |
+| Humanistic    | self-growth                   |
+| ACT           | acceptance                    |
+| DBT           | emotion regulation            |
 
 ---
 
-## Behavioral Economics
+# Ресурсы
 
-### Behavioral Economics — University of Toronto
+## CBT Basics
 
-https://www.coursera.org/learn/behavioral-economics-intro
+🔗 [https://www.youtube.com/results?search_query=cognitive+behavioral+therapy+lecture](https://www.youtube.com/results?search_query=cognitive+behavioral+therapy+lecture)
 
 ---
 
-## Topics
+## ACT Basics
 
-* persuasion
-* conformity
-* group behavior
-* biases
-* heuristics
-* incentives
-* habit formation
+🔗 [https://www.youtube.com/results?search_query=acceptance+commitment+therapy+lecture](https://www.youtube.com/results?search_query=acceptance+commitment+therapy+lecture)
 
 ---
 
-## Read
+# Что должен понимать
 
-### Thinking, Fast and Slow
+* automatic thoughts;
+* cognitive distortions;
+* emotional regulation;
+* behavioral patterns.
 
-by Daniel Kahneman
-
 ---
-
-# Phase 6 — Clinical Foundations (Months 11–12)
 
-## Abnormal Psychology
+# PHASE 8 — Academic Writing & Research Literacy
 
-### OpenStax Abnormal Psychology
+## ⏱ Время
 
-https://openstax.org/details/books/abnormal-psychology
+3–4 недели
 
 ---
 
-### DSM-5 Overview Materials
+# 1. How to Read Papers
 
-https://www.psychiatry.org/psychiatrists/practice/dsm
+🔗 [https://www.nature.com/articles/d41586-021-01739-6](https://www.nature.com/articles/d41586-021-01739-6)
 
 ---
 
-## Psychotherapy Foundations
+# 2. APA Style
 
-### Introduction to CBT
+🔗 [https://apastyle.apa.org/](https://apastyle.apa.org/)
 
-https://www.coursera.org/learn/psychological-first-aid
-
----
-
-### Stanford Human Behavioral Biology
-
-https://www.youtube.com/playlist?list=PL848F2368C90DDC3
-
-Lectures by Robert Sapolsky.
-
 ---
-
-## Learn
 
-* mood disorders
-* anxiety disorders
-* trauma
-* personality disorders
-* CBT basics
-* psychotherapy models
-* biopsychosocial model
+# 3. Zotero
 
----
+🔗 [https://www.zotero.org/](https://www.zotero.org/)
 
-# 5. Curriculum Structure
+Для:
 
-| Area                     | Importance |
-| ------------------------ | ---------- |
-| Intro Psychology         | Core       |
-| Statistics               | Critical   |
-| Research Methods         | Critical   |
-| Neuroscience             | Core       |
-| Cognitive Psychology     | Core       |
-| Developmental Psychology | Medium     |
-| Social Psychology        | Core       |
-| Personality              | Medium     |
-| Clinical Foundations     | Medium     |
-| Behavioral Economics     | Bonus      |
+* paper management;
+* citations;
+* bibliography.
 
 ---
-
-# 6. Academic Reading Workflow
 
-For every paper:
+# Что делать
 
-## Step 1 — Abstract
+Начать читать papers каждую неделю.
 
-Understand:
+Минимум:
 
-* question
-* methods
-* conclusion
+* 1 paper/week.
 
 ---
 
-## Step 2 — Figures
+# Как читать paper
 
-Read graphs before text.
+1. Abstract
+2. Introduction
+3. Methods
+4. Results
+5. Discussion
 
 ---
 
-## Step 3 — Discussion
+# PHASE 9 — Applied Tracks
 
-Understand implications and limitations.
-
 ---
-
-## Step 4 — Notes
 
-Write:
+# 🧠 Track A — UX Research
 
-* hypothesis
-* methodology
-* findings
-* weaknesses
+Изучать:
 
----
-
-# 7. Recommended Reading List
+* user interviews;
+* usability;
+* behavioral UX;
+* attention.
 
-## Beginner
+Ресурсы:
 
-* *Psychology* — David Myers
-* *Behave* — Robert Sapolsky
-* *Thinking, Fast and Slow* — Daniel Kahneman
+🔗 [https://www.nngroup.com/](https://www.nngroup.com/)
 
 ---
-
-## Intermediate
-
-* *The Man Who Mistook His Wife for a Hat* — Oliver Sacks
-* *Influence* — Robert Cialdini
-* *Why Zebras Don't Get Ulcers* — Robert Sapolsky
 
----
+# 💼 Track B — Organizational Psychology
 
-## Advanced
+Изучать:
 
-* *Principles of Neural Science* — Kandel
-* *Theoretical Neuroscience* — Dayan & Abbott
+* motivation;
+* leadership;
+* burnout;
+* group behavior.
 
 ---
-
-# 8. Note-Taking System
-
-Recommended stack:
 
-| Tool          | Purpose           |
-| ------------- | ----------------- |
-| Obsidian      | Knowledge base    |
-| Anki          | Spaced repetition |
-| Zotero        | Research papers   |
-| Notion/Trello | Progress tracking |
+# 💰 Track C — Behavioral Economics & Product
 
----
-
-## Obsidian Structure
+Изучать:
 
-```text
-Psychology/
-├── Cognitive/
-├── Neuroscience/
-├── Statistics/
-├── Social/
-├── Clinical/
-├── Research Papers/
-└── Flashcards/
-```
+* decision-making;
+* habit loops;
+* engagement systems;
+* persuasive design.
 
 ---
-
-## Flashcard Rules
-
-Create cards for:
 
-* definitions
-* theories
-* experiments
-* biases
-* brain structures
-* neurotransmitters
+# 🧬 Track D — Cognitive Science
 
-Avoid giant cards.
+Изучать:
 
-Use atomic information.
+* AI cognition;
+* computational neuroscience;
+* philosophy of mind.
 
 ---
 
-# 9. Capstone Projects
+# 🧪 Capstone Project
 
-## Beginner
+## ⏱ Время
 
-* habit tracking experiment
-* sleep & cognition journal
-* memory recall study
+1–2 месяца
 
 ---
 
-## Intermediate
+# Варианты
 
-* literature review on attention
-* mini replication study
-* behavioral observation project
+## 1. Research Project
 
----
-
-## Advanced
+Пример:
+"Как short-form content влияет на концентрацию"
 
-* statistical analysis project
-* cognitive bias dataset analysis
-* psychology research blog
-* systematic review
-
 ---
-
-# 10. GitHub Progress Tracking
 
-Example repository structure:
+## 2. Literature Review
 
-```text
-ossu-psychology/
-├── README.md
-├── notes/
-├── flashcards/
-├── papers/
-├── projects/
-├── statistics/
-└── weekly_reviews/
-```
+Пример:
+"Современные исследования anxiety among developers"
 
 ---
-
-## README Example
-
-```markdown
-# OSSU Psychology
-
-## Progress
-
-- [x] Intro to Psychology
-- [ ] Statistics
-- [ ] Research Methods
-- [ ] Neuroscience
-- [ ] Cognitive Psychology
-- [ ] Social Psychology
-- [ ] Clinical Psychology
 
-## Weekly Hours
+## 3. Behavioral Analysis
 
-Average: 10h/week
-```
+Разбор:
 
----
-
-# 11. Optional Specializations
+* TikTok;
+* Instagram;
+* gambling mechanics;
+* doomscrolling.
 
-After the first year, choose a direction.
-
 ---
-
-## Clinical Psychology
 
-Focus:
+# 🛠 Система обучения
 
-* psychopathology
-* psychotherapy
-* diagnostics
-* counseling
-
 ---
 
-## Cognitive Science
+# Note-taking
 
-Focus:
+Рекомендуется:
 
-* AI
-* neuroscience
-* computational cognition
-* perception
+| Инструмент | Для чего          |
+| ---------- | ----------------- |
+| Obsidian   | knowledge base    |
+| Anki       | spaced repetition |
+| Zotero     | papers            |
+| Notion     | roadmap tracking  |
 
 ---
 
-## Behavioral Economics
+# Как вести заметки
 
-Focus:
+На каждую тему:
 
-* incentives
-* decision theory
-* UX/product psychology
+* definition;
+* examples;
+* research;
+* criticism;
+* applications.
 
 ---
-
-## Neuroscience
-
-Focus:
-
-* biology
-* neural systems
-* computational neuroscience
 
----
+# Spaced Repetition
 
-# 12. Recommended YouTube Channels
+Anki:
 
-## High Quality
+🔗 [https://apps.ankiweb.net/](https://apps.ankiweb.net/)
 
-### YaleCourses
+Что заносить:
 
-https://www.youtube.com/@YaleCourses
+* термины;
+* cognitive biases;
+* theories;
+* brain structures;
+* statistics concepts.
 
 ---
 
-### Stanford
+# 🗓 Пример расписания (12 месяцев)
 
-https://www.youtube.com/@stanford
+| Месяц | Тема                     |
+| ----- | ------------------------ |
+| 1     | Foundations              |
+| 2-3   | Statistics & Research    |
+| 4-5   | Neuroscience & Cognition |
+| 6     | Development              |
+| 7-8   | Social & Personality     |
+| 9     | Abnormal Psychology      |
+| 10    | Behavioral Economics     |
+| 11    | Therapy Foundations      |
+| 12    | Research + Capstone      |
 
 ---
 
-### MIT OpenCourseWare
+# 📖 Дополнительные книги
 
-https://www.youtube.com/@mitocw
+| Книга                    | Автор               |
+| ------------------------ | ------------------- |
+| Behave                   | Robert Sapolsky     |
+| Influence                | Robert Cialdini     |
+| The Body Keeps the Score | Bessel van der Kolk |
+| Man's Search for Meaning | Viktor Frankl       |
+| Atomic Habits            | James Clear         |
 
 ---
-
-### CrashCourse
 
-https://www.youtube.com/@crashcourse
+# ⚠️ Важное предупреждение
 
----
+Психология в интернете переполнена:
 
-# 13. Academic Writing Basics
+* псевдонаукой;
+* инфоцыганством;
+* MBTI-культами;
+* "травма-астрологией";
+* TikTok self-diagnosis.
 
-Learn:
+Главный фильтр:
 
-* APA citation style
-* literature reviews
-* paper structure
-* argumentation
+* research papers;
+* meta-analysis;
+* reproducibility;
+* evidence-based подход.
 
 ---
 
-## Resource
+# 🎯 Финальная цель
 
-Purdue OWL APA Guide:
+После программы ты должен:
 
-https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_style_introduction.html
+* понимать человека лучше;
+* мыслить более научно;
+* лучше анализировать поведение;
+* понимать себя;
+* читать исследования без страха;
+* иметь базу для дальнейшей специализации.
 
 ---
-
-# 14. Final Outcomes
-
-If completed seriously, after ~12 months you should be able to:
-
-* read psychology papers
-* understand statistics in studies
-* discuss major theories critically
-* avoid pseudoscience
-* design small experiments
-* understand neuroscience foundations
-* prepare for formal academic study
-
-This will not replace a psychology degree.
-
-But it can realistically bring you near the level of a strong first-year / partial second-year undergraduate foundation.
